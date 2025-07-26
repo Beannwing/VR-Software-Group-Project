@@ -1,6 +1,7 @@
-# VR-Software-Group-Project
+# The code is not attached as the project is a coursework so cannot be shared
 ****The code is not attached as the project is a coursework so cannot be shared****
 
+# VR-Software-Group-Project
 # VR Model Viewer
 
 ![Application_GUI](https://github.com/user-attachments/assets/0edff21c-2a36-4d0e-a044-bc55f6ca0583)
@@ -82,8 +83,8 @@ cmake --build .
 ## Contributors
 
 - Ben Harle - [@Beannwing](https://github.com/Beannwing) | eeybh1@exmail.nottingham.ac.uk
-- Kai Brewster - [@BrewskiIceTea](https://github.com/BrewskiIceTea) | eeykb3@nottingham.ac.uk
 - Christian Ogatis - [@ChristianOgatis](https://github.com/BrewskiIceTea) | eeyco5@nottingham.ac.uk
+- Kai Brewster - [@BrewskiIceTea](https://github.com/BrewskiIceTea) | eeykb3@nottingham.ac.uk
 
 
 
