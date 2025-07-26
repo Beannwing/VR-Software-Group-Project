@@ -1,5 +1,5 @@
 # VR-Software-Group-Project
-****The code is not attached as the project is a coursework so can't be shared****
+****The code is not attached as the project is a coursework so cannot be shared****
 
 # VR Model Viewer
 
