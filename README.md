@@ -1,7 +1,5 @@
-# The code is not attached as the project is a coursework so cannot be shared
-****The code is not attached as the project is a coursework so cannot be shared****
-
 # VR-Software-Group-Project
+****The code is not attached as the project is a coursework so cannot be shared****
 # VR Model Viewer
 
 ![Application_GUI](https://github.com/user-attachments/assets/0edff21c-2a36-4d0e-a044-bc55f6ca0583)
